@@ -1,0 +1,21 @@
+{
+  "name": "Joel",
+  "phone": "1633572009",
+  "pets": [
+    {
+      "type": "cat",
+      "names": [
+        "Rocky",
+        "Ollie",
+        "Finn"
+      ]
+    },
+    {
+      "type": "dog",
+      "names": [
+        "Daisy",
+        "Grace"
+      ]
+    }
+  ]
+}
